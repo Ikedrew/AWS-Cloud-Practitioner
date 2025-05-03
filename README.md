@@ -18,4 +18,5 @@ Tools & Skills Gained:
 - Cost and performance optimization fundamentals
 - Hands-on lab environment via Practice Labs
 
-![image alt]()
+![image alt](https://github.com/user-attachments/assets/8f87f124-7851-4de9-8636-9b14b05264d3)
+
